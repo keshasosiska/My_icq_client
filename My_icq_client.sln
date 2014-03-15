@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "My_icq_client", "My_icq_client\My_icq_client.vcxproj", "{DB6A3DFC-AF30-4EDE-B741-65FBE6B89600}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "My_icq_server", "My_icq_server\My_icq_server.vcxproj", "{D1E091A9-B530-41F2-8E55-1BC52F248D32}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "My_icq_console_client", "My_icq_console_client\My_icq_console_client.vcxproj", "{4AE6B583-540F-4AD5-8DB0-487F626CCBA0}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "My_icq_console_server", "My_icq_console_server\My_icq_console_server.vcxproj", "{7A203324-9220-41AB-9406-2553E85B1438}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB6A3DFC-AF30-4EDE-B741-65FBE6B89600}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DB6A3DFC-AF30-4EDE-B741-65FBE6B89600}.Debug|Win32.Build.0 = Debug|Win32
+		{DB6A3DFC-AF30-4EDE-B741-65FBE6B89600}.Release|Win32.ActiveCfg = Release|Win32
+		{DB6A3DFC-AF30-4EDE-B741-65FBE6B89600}.Release|Win32.Build.0 = Release|Win32
+		{D1E091A9-B530-41F2-8E55-1BC52F248D32}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D1E091A9-B530-41F2-8E55-1BC52F248D32}.Debug|Win32.Build.0 = Debug|Win32
+		{D1E091A9-B530-41F2-8E55-1BC52F248D32}.Release|Win32.ActiveCfg = Release|Win32
+		{D1E091A9-B530-41F2-8E55-1BC52F248D32}.Release|Win32.Build.0 = Release|Win32
+		{4AE6B583-540F-4AD5-8DB0-487F626CCBA0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4AE6B583-540F-4AD5-8DB0-487F626CCBA0}.Debug|Win32.Build.0 = Debug|Win32
+		{4AE6B583-540F-4AD5-8DB0-487F626CCBA0}.Release|Win32.ActiveCfg = Release|Win32
+		{4AE6B583-540F-4AD5-8DB0-487F626CCBA0}.Release|Win32.Build.0 = Release|Win32
+		{7A203324-9220-41AB-9406-2553E85B1438}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7A203324-9220-41AB-9406-2553E85B1438}.Debug|Win32.Build.0 = Debug|Win32
+		{7A203324-9220-41AB-9406-2553E85B1438}.Release|Win32.ActiveCfg = Release|Win32
+		{7A203324-9220-41AB-9406-2553E85B1438}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
